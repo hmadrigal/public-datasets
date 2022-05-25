@@ -4,3 +4,5 @@ ham-spam.csv filter=lfs diff=lfs merge=lfs -text
 ham-spam.txt filter=lfs diff=lfs merge=lfs -text
 datasets_483_982_spam.csv filter=lfs diff=lfs merge=lfs -text
 datasets_483_982_spam.txt filter=lfs diff=lfs merge=lfs -text
+_datasets_483_982_spam.csv filter=lfs diff=lfs merge=lfs -text
+_ham-spam.csv filter=lfs diff=lfs merge=lfs -text
